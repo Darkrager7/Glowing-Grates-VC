@@ -1,0 +1,15 @@
+body {
+    background-color: #853304;
+    font-family: 'Libre Franklin', sans-serif;
+    text-align:center;
+  }
+
+  .bg-nav{
+    background-color: #6b240c;
+  }
+  
+.main-content{
+  background-color: #e48f45;
+  border:8px solid #f5cca0;
+  
+}
