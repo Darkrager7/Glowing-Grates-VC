@@ -13,3 +13,42 @@ body {
   border:8px solid #f5cca0;
   
 }
+
+.google-map{
+  padding-bottom: 50%;
+  position: relative;
+}
+
+.google-map iframe{
+  height: 100%;
+  width: 100%;
+  left: 0;
+  top: 0;
+  position: absolute;
+}
+
+.high-contrast-mode body{
+  background-color: #0a0a0a;
+  font-family:Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: #fff312;
+}
+
+.high-contrast-mode .bg-nav{
+  background: #0a0a0a;
+  border:5px solid #fff312;
+  color: #fff312;
+}
+
+.high-contrast-mode .bg-nav .nav-link{
+  background: #0a0a0a;
+  border:2px solid #fff312;
+  color: #fff312;
+}
+
+.high-contrast-mode .main-content{
+  background-color: #0a0a0a;
+  border: solid #fff312;
+  color: #fff312;
+
+}
